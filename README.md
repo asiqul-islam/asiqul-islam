@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asiqul-islam
 - 👀 I’m interested in web design 
 - 🌱 I’m currently learning web design
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on your site 
 - 📫 How to reach me ...
 
 <!---
